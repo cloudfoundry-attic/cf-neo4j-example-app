@@ -1,4 +1,4 @@
-# Example Neo4j Application
+# Example Neo4j Application [![Build Status](https://travis-ci.org/pivotal-cf/cf-neo4j-example-app.svg)](https://travis-ci.org/pivotal-cf/cf-neo4j-example-app)
 
 This simple application illustrates the use of the Pivotal Neo4j data service in a Ruby application running on Pivotal Cloud Foundry.
 
