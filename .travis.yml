@@ -1,0 +1,9 @@
+language: ruby
+
+rvm:
+  - 2.0.0
+
+services:
+  - neo4j
+
+script: bundle exec rspec
