@@ -1,7 +1,6 @@
 GIT
   remote: https://github.com/cloudfoundry/cf-app-utils-ruby.git
-  revision: 0dc19ec6b98fdfaf6c54350bd601fcfb87040abc
-  branch: master
+  revision: fa3b433ec1dcd5b7b738e3334ee17d3f3d1a0d9f
   specs:
     cf-app-utils (0.3)
 
@@ -91,6 +90,6 @@ DEPENDENCIES
   childprocess
   faraday
   guard-rspec
-  neography (~> 1.4.1)
-  rspec (~> 3.0.0.beta2)
-  sinatra (~> 1.4.4)
+  neography
+  rspec
+  sinatra
